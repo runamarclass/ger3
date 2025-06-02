@@ -1,10 +1,10 @@
-name: gerr3
+name: ger3
 
 on: push
 
 jobs:
   check_cpu:
-    runs-on: namespace-profile-namespace-x8-3
+    runs-on: namespace-profile-namespace-x8-33
 
     steps:
     - name: Checkout code
